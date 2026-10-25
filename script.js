@@ -4,15 +4,13 @@ startButton.addEventListener("click", function(){
 });
 
 
-
-
 const questions = [
 {
         question: "DECODE THE MESSAGE Uifsf jt b tfdsfu",
         hint: "EVERY LETTER HAS BEEN SHIFTED FORWARD BY ONE",
         answer: "there is a secret"
 },
-{
+    {
     question:"A password is hidden in this sequence:2,6,12,20,30,?",
     answer:"42"
 },
